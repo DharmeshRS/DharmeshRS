@@ -6,8 +6,8 @@
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **dsonar333@gmail.com**
-- 
-- - 👨‍💻 All of my projects are available at [My Portfolio link](.....)
+
+- 👨‍💻 All of my projects are available at [My Portfolio link](https://dharmeshsonar-portfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
