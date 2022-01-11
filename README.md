@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dharmesh Rajendra Sonar</h1>
+<h1 align="center">Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dharmesh Rajendra Sonar</h1>
 <h4 align="left">I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking for opportunity to creating a mark within a product-based company based on the acquired skillset and passion for coding.</h4>
 
 - 🌱 I’m currently learning **react**
