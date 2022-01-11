@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/samsung/78/handshake_1f91d.png" width="30px" /> **dsonar333@gmail.com**
+- 📫 How to reach me <img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width="30px" /> **dsonar333@gmail.com**
 
 - 👨‍💻 All of my projects are available at [Check My Portfolio](https://dharmeshsonar-portfolio.netlify.app)
 
