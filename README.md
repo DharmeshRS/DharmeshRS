@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react**<img src="https://media2.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952xul589f9lfg7rlks48hjmgqo3sk5yrg19wfthfma&rid=giphy.gif&ct=s" width="30px">
 
-- 💬 Ask me about **JavaScript**<img src="https://giphy.com/gifs/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn" width="30px">
+- 💬 Ask me about **JavaScript**<img src="https://giphy.com/gifs/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn/fullscreen" width="30px">
 
 - 📫 How to reach me <img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width="30px" /> **dsonar333@gmail.com**
 
